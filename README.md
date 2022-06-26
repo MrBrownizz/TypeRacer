@@ -1,3 +1,5 @@
 # TypeRacer
 
-This program is a mobile Android version of the well-known "TypeRacer" web game.
+This application is a mobile version of the well-known "TypeRacer" web game.
+
+Note: built for Android devices.

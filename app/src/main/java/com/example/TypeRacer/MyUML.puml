@@ -1,0 +1,19 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class BroadcastBattery extends BroadcastReceiver {
+    public void onReceive(Context context, Intent intent)
+    protected void onResume()
+    protected void onPause()
+}
+
+
+class MusicService extends Service {
+
+   private MediaPlayer player;
+   public int onStartCommand(Intent intent, int flags, int startId)
+   public void onDestroy()
+   public IBinder onBind(Intent intent)
+}
+
+@enduml

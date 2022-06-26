@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484206414043",
+    "project_id": "typeracer-e7b10",
+    "storage_bucket": "typeracer-e7b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484206414043:android:75a9c1e3f3a90169cda4fe",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484206414043-gh81k8t2j51rnb1s4lm4evju32pd0tet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzwGc-HTPm7tpXFfAhhWv71YPQlQOnYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484206414043-gh81k8t2j51rnb1s4lm4evju32pd0tet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
